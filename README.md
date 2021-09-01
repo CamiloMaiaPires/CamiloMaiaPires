@@ -1,1 +1,1 @@
-![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiloMaiaPires&count_private=true&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloMaiaPires&theme=onedark&layout=compact)
+![Camilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamiloMaiaPires&count_private=true&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloMaiaPires&theme=dark&layout=compact)
